@@ -46,6 +46,8 @@ I have studied Computer Science at [Complutese University of Madrid](https://ucm
 ## Connect with me:
 
 <p align = "center">
-  [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://linkedin.com/in/albersg)
-  [<img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:sanchezgomez.alberto@gmail.com)
+  
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://linkedin.com/in/albersg)
+[<img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:sanchezgomez.alberto@gmail.com)
+
 </p>
