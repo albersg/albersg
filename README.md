@@ -25,8 +25,8 @@ I have studied Computer Science at [Complutese University of Madrid](https://ucm
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
-![Statsmodels](https://img.shields.io/badge/statsmodels-4B0082?style=for-the-badge&logo=statsmodels&logoColor=white)&nbsp;
-![River](https://img.shields.io/badge/River-336699?style=for-the-badge)&nbsp;
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4B0082?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![River](https://img.shields.io/badge/River-336699?style=for-the-badge&logo=powerautomate&logoColor=white)&nbsp;
 
 #### Databases:
 
