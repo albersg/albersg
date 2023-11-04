@@ -24,7 +24,9 @@ I have studied Computer Science at [Complutese University of Madrid](https://ucm
 ![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
+![Statsmodels](https://img.shields.io/badge/statsmodels-#coloqueElColorQuePrefiera?style=for-the-badge&logo=statsmodels&logoColor=white)&nbsp;
+![River](https://img.shields.io/badge/River-#coloqueElColorQuePrefiera?style=for-the-badge)&nbsp;
 
 #### Databases:
 
@@ -42,6 +44,7 @@ I have studied Computer Science at [Complutese University of Madrid](https://ucm
 ![Jupyter Lab](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)&nbsp;
 
 ## Connect with me:
 
@@ -51,4 +54,3 @@ I have studied Computer Science at [Complutese University of Madrid](https://ucm
 [<img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:sanchezgomez.alberto@gmail.com)
 
 </p>
-
