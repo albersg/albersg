@@ -1,6 +1,6 @@
 ### Hi there, I'm [Alberto Sánchez](https://github.com/albersg) 👋
 
-I have studied Computer Science at [Complutese University of Madrid](https://ucm.es), and soon studying a Master in Applied Artificial Intelligence at [Carlos III University](https://uc3m.es). I have a passion for Artificial Intelligence, Data Science, and open source development.
+I have studied Computer Science at [Complutese University of Madrid](https://ucm.es), and currently studying a Master in Applied Artificial Intelligence at [Carlos III University](https://uc3m.es). I have a passion for Artificial Intelligence, Data Science, and open source development.
 
 ## Skills:
 
